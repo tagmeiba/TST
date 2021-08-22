@@ -2,6 +2,7 @@
 using namespace std;
 {
 int sum,num1,num2;
+cout<<"Changed";
 cout<<"Change for git hub";
 cout<<"Enter two numbers :";
 cin>>num1>>num2;
