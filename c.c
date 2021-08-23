@@ -1,7 +1,7 @@
 #inlcude<iostream.h>
 using namespace std;
 {
-int sum,num1,num2;
+int sum,num1,num2,num3;
 cout<<"Enter two numbers :";
 cin>>num1>>num2;
 sum=num1+num2;
